@@ -1,0 +1,8 @@
+
+{
+  "name": "PillPal - Home Medicine Manager",
+  "description": "A comprehensive medicine management application for families. Easily track medications, manage family prescriptions, and set reminders for elders and children using AI-powered label recognition.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
